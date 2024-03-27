@@ -1,0 +1,27 @@
+{
+  "name": "aliquidquibusdam",
+  "version": "1.0.0",
+  "description": "A Karma plugin. Concatentate haml attributes to one line so that haml-js can process them",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SeamusAbbott/aliquidquibusdam.git"
+  },
+  "keywords": [
+    "pariatur",
+    "haml-preprocessor",
+    "illo",
+    "autem",
+    "optio"
+  ],
+  "author": "ValentinPouros",
+  "dependencies": {},
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SeamusAbbott/aliquidquibusdam.git/issues"
+  },
+  "homepage": "https://github.com/SeamusAbbott/aliquidquibusdam.git"
+}
